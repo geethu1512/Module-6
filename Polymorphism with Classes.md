@@ -1,4 +1,4 @@
-# # 🐍 Python OOP: Polymorphism with Classes
+# 🐍 Python OOP: Polymorphism with Classes
 ## Name: GEETHU R
 ## Register No.: 212224040089
 ## 🎯 AIM
