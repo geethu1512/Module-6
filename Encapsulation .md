@@ -40,4 +40,4 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ![encapsulation](https://github.com/user-attachments/assets/3afdec82-1dd3-4512-99c6-364d7107127b)
 
 ## Result
-Thus the program has been executed swuccessfully.
+Thus the program has been executed successfully.
